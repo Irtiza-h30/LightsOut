@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="a3_300074139_300074069:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/a3_300074139_300074069_jar</output-path>
+    <root id="archive" name="a3_300074139_300074069.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
